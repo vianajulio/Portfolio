@@ -1,5 +1,7 @@
-# Portfolio_CSS_Dio
-Portfólio feito durante o curso de CSS no bootcamp FullStack da plataforma  DIO.
+# Portfolio
+
+Simples e direto, mostro um pouco dos projetos que ja realizei ou que estou fazendo no momento.
+
 
 ## Link do site (pages)
 
